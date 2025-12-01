@@ -2,8 +2,8 @@
 # AIM , SOFTWARE REQUIRED AND COMPONENTS REQUIRED 
 <img width="438" height="478" alt="image" src="https://github.com/user-attachments/assets/38700304-dd53-406c-9235-509639a7d955" />
 
-# CIRCUIT DIAGRAM 
-<img width="480" height="472" alt="image" src="https://github.com/user-attachments/assets/3b06e920-15e6-4e8a-a265-fec35f50ee6f" />
+# CIRCUIT DIAGRAM AND MODEL GRAPH
+<img width="916" height="1116" alt="image" src="https://github.com/user-attachments/assets/b2abc15e-f529-41e0-b8a4-2b3746542555" />
 
 # THEORY
 <img width="813" height="516" alt="image" src="https://github.com/user-attachments/assets/ee6faf13-afec-4bdd-b2c2-e4ba80357bb6" />
